@@ -1,0 +1,4 @@
+interface:
+  display_name: "Kindle 安装微信读书"
+  short_description: "安全安装 KOReader、觅阅与微信读书并配置锁屏"
+  default_prompt: "使用 $install-weread-on-kindle 检查我的 Kindle，并按稳定优先方案安装微信读书。"
